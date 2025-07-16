@@ -7,7 +7,9 @@
  Dataset Description - It contains the complete loan data for all loans issued through the time period 2007 to 2011.
  
  Data Dictionary 
+ 
  1.annual_inc  - The self-reported annual income provided by the borrower during registration.
+ 
  2.dti  - A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
  3.emp_length -Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years.
  4.funded_amnt   - The total amount committed to that loan at that point in time.
